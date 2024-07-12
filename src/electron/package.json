@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-file-opener2",
+  "description": "Electron Native Support for cordova-plugin-file-opener2",
+  "main": "FileOpener2.js",
+  "cordova": {
+    "serviceName": "FileOpener2"
+  },
+  "dependencies": {
+    "electron": "^29.0.0"
+  }
+}
